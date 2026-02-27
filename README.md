@@ -217,9 +217,9 @@ Le dashboard HTML interactif visualise les 4 axes d'analyse avec :
 - Trafic par source (funnel)
 - Alerte rétention (pie chart + jauge)
 
-👉 **[Ouvrir le Dashboard](https://lerouxgaspard.github.io/thelook-ecommerce-audit/The_Look_audit/Dashboard.html)**
+👉 *[Ouvrir le Dashboard](https://lerouxgaspard.github.io/thelook-ecommerce-audit/The_Look_audit/Dashboard.html)*
 
-![Dashboard Overview](./visuals/dashboard.png)
+*![Dashboard Overview]([./visuals/dashboard.png](https://lerouxgaspard.github.io/thelook-ecommerce-audit/The_Look_audit/Dashboard_the_look.png)*
 
 ---
 
