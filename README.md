@@ -218,6 +218,7 @@ Le dashboard HTML interactif visualise les 4 axes d'analyse avec :
 - Alerte rétention (pie chart + jauge)
 
 👉 *[Ouvrir le Dashboard](https://lerouxgaspard.github.io/thelook-ecommerce-audit/The_Look_audit/Dashboard.html)*
+👉 *[Ouvrir la présentation](https://lerouxgaspard.github.io/thelook-ecommerce-audit/The_Look_audit/presentation.html)*
 
 ![Dashboard Overview](https://lerouxgaspard.github.io/thelook-ecommerce-audit/The_Look_audit/Dashboard_the_look.png)
 
