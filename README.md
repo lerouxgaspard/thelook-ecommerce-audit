@@ -219,7 +219,7 @@ Le dashboard HTML interactif visualise les 4 axes d'analyse avec :
 
 👉 *[Ouvrir le Dashboard](https://lerouxgaspard.github.io/thelook-ecommerce-audit/The_Look_audit/Dashboard.html)*
 
-*![Dashboard Overview]([./visuals/dashboard.png](https://lerouxgaspard.github.io/thelook-ecommerce-audit/The_Look_audit/Dashboard_the_look.png)*
+![Dashboard Overview](https://lerouxgaspard.github.io/thelook-ecommerce-audit/The_Look_audit/Dashboard_the_look.png)
 
 ---
 
