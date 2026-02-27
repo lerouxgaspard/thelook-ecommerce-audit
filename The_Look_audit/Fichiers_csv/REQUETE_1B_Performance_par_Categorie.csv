@@ -1,0 +1,5 @@
+category,department,nb_commandes,nb_clients,ca,marge_brute,taux_marge_pct,taux_remise_pct,nb_produits_vendus
+Sweaters,Men,3127,3025,246051.89,122843.49,49.92,0.0,961
+Fashion Hoodies & Sweatshirts,Men,3144,3051,186658.97,83911.28,45.02,0.0,936
+Sweaters,Women,1916,1874,136622.8,75225.21,54.99,0.0,678
+Fashion Hoodies & Sweatshirts,Women,2351,2283,117734.2,62226.25,52.85,0.0,837

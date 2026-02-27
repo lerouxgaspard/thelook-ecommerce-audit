@@ -1,0 +1,4 @@
+segment_client,nb_clients,ca_total,ca_moyen_par_client,nb_achats_total
+1 - Client Ponctuel,9180,615714.28,67.07,9180
+2 - Client Occasionnel (2 achats),498,66470.79,133.48,996
+3 - Client Régulier (3-4 achats),26,4882.79,187.8,79
